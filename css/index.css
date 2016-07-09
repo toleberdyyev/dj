@@ -1,0 +1,18 @@
+*{
+	font-family: arial
+}
+.div_form{
+	border: 1px solid gray;
+	padding: 20px;
+}.stuff_img{
+	vertical-align: center;
+	height: 200px;
+	width: auto;
+	float: left
+}.opisaniye{
+	padding: 20px;
+	float: right;
+}#first_row{
+	width: 100%
+}table{
+	text-align: center;
