@@ -197,8 +197,6 @@ if (name!='' && dostavka!='' && phone!='' && email!='' && city!='' && adrs!=''){
 				}else{
 				document.getElementById('wall').innerHTML='<center><h1>Ваш анкета была принята <br>Большое спасибо за ваш заказ ! :)</h1><br><a href="index.php">вернуться назад</a></center>'
 				}
-				
-
 			}})
 
 		}
